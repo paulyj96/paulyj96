@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Paul Jeong
+- 📍 I am located in Atlanta, GA
 - 👀 I’m interested in data science/analytics
 - 🌱 I’m currently pursuing a Master of Science in Applied Data Science 
 - 📫 How to reach me ...yunsoo96@gmail.com
